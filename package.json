@@ -1,0 +1,9 @@
+{
+  "name": "github",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "mathjs": "^11.8.0"
+  }
+}
